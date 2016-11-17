@@ -1,0 +1,31 @@
+# encoding: utf-8
+---
+name: heyx.symbol
+version: "1"
+sort: original
+...
+
+：	;
+；	;;
+！	;a
+%	;b
+”	;c
+、	;d
++	;e
+·	;g
+《》	;h
+“”	;j
+（）	;k
+〔〕	;l
+‘’	;m
+←	;o
+→	;p
+‰	;q
+-	;r
+……	;s
+=	;t
+——	;v
+？	;w
+____	;x
+@	;y
+“	;z
