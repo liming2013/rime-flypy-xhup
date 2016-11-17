@@ -1,0 +1,19 @@
+var:
+  option:
+    simplification: true
+  previously_selected_schema: xhup
+  schema_access_time:
+    bopomofo: 1477199852
+    combo_pinyin: 1477200554
+    double_pinyin_flypy: 1479128118
+    emoji: 1479264380
+    hepy: 1479026902
+    heyx: 1479264094
+    luna_pinyin: 1479263393
+    luna_pinyin_fluency: 1479216299
+    pinyin_simp: 1479264791
+    terra_pinyin: 1479263829
+    wubi_pinyin: 1479264085
+    xhup: 1479270624
+    xhup_express: 1479265273
+    xhup_fluency: 1479264090
