@@ -1,0 +1,21 @@
+小狼毫输入法常用设置
+　　小狼毫，为中州韵输入法引擎的 Windows 版本。是一种开源中文输入法，其扩展性较强，内建多种输入方案，但不易于普通用户上手。这里就介绍一些小狼毫输入法常用设置，供大家参考。
+
+　　横排选词：
+
+　　在【小狼毫】用户文件夹，修改weasel.custom.yaml文件，在patch:后加入 "style/horizontal": true
+
+　　选词数修改：
+
+　　在【小狼毫】用户文件夹，修改default.custom.yaml文件，在patch:后加入"menu/page_size": 9
+
+　　修改F4快捷键：
+
+　　在【小狼毫】用户文件夹，修改default.custom.yaml文件，在patch:后加入"switcher/hotkeys":    -"Control+grave"
+
+　　修改Shift切换键：
+
+　　在【小狼毫】用户文件夹，修改default.custom.yaml文件，在patch:后加入  "ascii_composer/switch_key":
+
+　　Shift_L: commit_code
+　　Shift_R: commit_code
